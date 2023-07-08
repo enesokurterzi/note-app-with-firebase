@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "888771575150",
+    "project_id": "odev-9",
+    "storage_bucket": "odev-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888771575150:android:4ab6353238e85c50abd57f",
+        "android_client_info": {
+          "package_name": "com.example.NoteAppWithFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888771575150-6b3d8hj96f1kls716b1bq2i73f84lvc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA70_5HsW16zRQDuTcmImKMBS_cOY8CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888771575150-6b3d8hj96f1kls716b1bq2i73f84lvc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888771575150:android:fe85161b5a7e0745abd57f",
+        "android_client_info": {
+          "package_name": "com.example.odev_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888771575150-6b3d8hj96f1kls716b1bq2i73f84lvc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA70_5HsW16zRQDuTcmImKMBS_cOY8CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888771575150-6b3d8hj96f1kls716b1bq2i73f84lvc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
